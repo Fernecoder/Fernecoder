@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋 and welcome to my GitHub profile!!
 
-<!--
-**Fernecoder/Fernecoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working at Telecom Argentina as a Jr. Data Analyst.
+- 🌱 I’m currently learning SQL, Python and Data Visualization for Data Science. Also I'm getting into Game Development slowly but surely :)
+- 👯 I’m looking to collaborate on project releated with Data analysis, Machine Learning.
 
-Here are some ideas to get you started:
+- 💬 Ask me about games, books, science and tech.
+- 📫 How to reach me: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  LinkedIn : https://www.linkedin.com/in/federico-s-florentin-870515183/
+  
+  Twitter : @fsflorentin
+  
+- ⚡ Fun fact: You don't know how many courses I have unfinished, just like the games that I don't play
+
