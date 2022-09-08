@@ -9,7 +9,7 @@
 
   LinkedIn : https://www.linkedin.com/in/federico-s-florentin-870515183/
   
-  Twitter : @fsflorentin
+  Twitter : https://twitter.com/fsflorentin
   
 - Let's connect :)
 
