@@ -1,6 +1,6 @@
 ### Hi there 👋 and welcome to my GitHub profile!!
 
-- 🔭 I’m currently working at Telecom Argentina as a Jr. Data Analyst. I'm a member in the campaign team and we work with the Fintech "Personal Pay" in their campaigns.
+- 🔭 I’m currently working at Telecom Argentina as a Data Analyst. I'm a member in the campaign team and we work with the Fintech "Personal Pay" in their campaigns.
 - 🌱 I’m constantly improving my SQL, Python and Data Visualization skills for Data Science. Also I'm getting into Software Development, more specifically Game Development.
 - 👯 I’m looking to collaborate on project releated with Software Development, Data analysis, Data Science and Machine Learning.
 
