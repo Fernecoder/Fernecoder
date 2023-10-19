@@ -1,15 +1,14 @@
 ### Hi there 👋 and welcome to my GitHub profile!!
 
-- 🔭 I’m currently working at Telecom Argentina as a Data Analyst. I'm a member in the campaign team and we work with the Fintech "Personal Pay" in their campaigns.
-- 🌱 I’m constantly improving my SQL, Python and Data Visualization skills for Data Science. Also I'm getting into Software Development, more specifically Game Development.
-- 👯 I’m looking to collaborate on project releated with Software Development, Data analysis, Data Science and Machine Learning.
+- 🔭 I’m currently working at Telecom Argentina as a Data Analyst. I'm a team member in the project "Personal Pay", the company's Fintech, helping understand their campaign impact with data.
+- 🌱 I’m constantly improving my SQL, Cloud and Python skills to improve my manipulation of data and to be able to deliver better business insights.
+- 🌱 I'm getting into Game Development, doing the Assosiate degree in Game Design and Development at National University of Litoral.
 
-- 💬 Ask me about games, books, science, personal projects, entrepreneurship and tech.
 - 📫 How to reach me, my social media: 
 
   LinkedIn : https://www.linkedin.com/in/federico-s-florentin-870515183/
   
   Twitter : https://twitter.com/fsflorentin
   
-- Let's connect :)
+- Let's connect and have a nice day :)
 
